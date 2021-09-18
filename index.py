@@ -86,7 +86,7 @@ def query_handler(args, api):
 
 @app.route("/", methods=['GET'])
 def index():
-    return "This program permits you to get direct access to streams by using Streamlink. Enjoy ! LaneSh4d0w. Special thanks to Keystroke for the API usage."
+    return "This program permits you to get direct access to streams by using Streamlink. Enjoy ! Winges4k. Special thanks to Keystroke for the API usage."
 
 
 @app.route("/iptv-query", methods=['GET'])
